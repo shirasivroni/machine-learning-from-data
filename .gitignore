@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+.env
+.venv/
+env/
