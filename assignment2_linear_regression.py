@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 # The second key is the p-value cut-off
 # The values are the chi-statistic that you need to use in the pruning
 
-# Written by : 212926091 & 211392329
 
 chi_table = {
     1: {0.5: 0.45, 0.25: 1.32, 0.1: 2.71, 0.05: 3.84, 0.0001: 100000},
